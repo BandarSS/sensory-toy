@@ -1,0 +1,29 @@
+{
+    "name": "sensory toy",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v3.0.12",
+        "tag": "v3.0.12",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/34abb389935b71f7faa7951f941ecba7c2c48642",
+        "target": "6.0.19",
+        "pxt": "6.0.13",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
